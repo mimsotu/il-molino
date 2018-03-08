@@ -1,5 +1,17 @@
 
 
+.jumbotron {
+
+background-image: url("assets/images/olive-leaves.jpg");
+background-color: #b9c683;
+
+}
+
+.navbar {
+
+
+}
+
 body {
 
 font-family: 'Cormorant Garamond', serif;
