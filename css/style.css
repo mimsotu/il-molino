@@ -26,6 +26,13 @@ body {
 font-family: 'Cormorant Garamond', serif;
 background-color: #b9c683;
 
+
+}
+
+#products_section {
+
+max-width: 800px;
+
 }
 
 .carousel-example-generic {
