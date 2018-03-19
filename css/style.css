@@ -24,17 +24,19 @@ body {
 
 font-family: 'Cormorant Garamond', serif;
 background-color: #ffffff;
+font-size: 18px;
 
 
 }
 
-h1,h2,h3 {
+h1 {
 
   text-align: center;
 
 }
-h2 {
+h2, h3, h4 {
   color: #87915e;
+  text-align: center;
 }
 
 .banner, .products_banner, .about_banner, .contact_banner {
