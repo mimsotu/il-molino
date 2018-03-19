@@ -1,4 +1,29 @@
 
+header {
+
+background-color: #87915e;
+
+}
+
+body {
+
+font-family: 'Cormorant Garamond', serif;
+background-color: #ffffff;
+font-size: 18px;
+
+}
+
+h1, h3 {
+
+  text-align: center;
+
+}
+h2, h4 {
+
+  color: #87915e;
+  text-align: center;
+}
+
 
 .jumbotron {
 
@@ -13,32 +38,6 @@ font-size: 24px;
 
 }
 
-
-header {
-
-background-color: #87915e;
-
-}
-
-body {
-
-font-family: 'Cormorant Garamond', serif;
-background-color: #ffffff;
-font-size: 18px;
-
-
-}
-
-h1, h3 {
-
-  text-align: center;
-
-}
-h2, h4 {
-  color: #87915e;
-  text-align: center;
-}
-
 .banner, .products_banner, .about_banner, .contact_banner {
 
   width: 100%;
@@ -48,6 +47,7 @@ h2, h4 {
 
 
 .center {
+
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -56,6 +56,7 @@ h2, h4 {
 
 
 #contact{
+
   background: #ffffff;
 	padding-bottom:80px;
 
